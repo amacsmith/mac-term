@@ -1,6 +1,6 @@
 # Research
 
-### AI-Powered Terminal Project
+### [AI-Powered Terminal Project](idea.md)
 
 
 ---
