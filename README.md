@@ -217,7 +217,7 @@ tasks more efficiently.
 assistant at their fingertips.
 
 
-**Implementation Roadmap:**
+# **Implementation Roadmap:**
 
 To bring our AI-powered terminal to life, let's break down the implementation into smaller, manageable tasks. Here's a suggested roadmap:
 
