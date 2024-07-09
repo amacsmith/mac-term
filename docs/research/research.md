@@ -10,3 +10,6 @@
 
 * **[MVP](mvp.md)**
 
+## Integrations
+
+* **[Open Web UI](integrations/open_web_ui.md)**
