@@ -9,26 +9,6 @@
 Now that we have our focus and differentiator, let's move on to exploring NLP libraries and frameworks!
 
 
-## **Focus 1: Terminal**
-
-* Develop a deep understanding of how users interact with their terminals
-* Research existing terminal-based command-line interfaces (CLI) to identify best practices and pain points
-* Explore the possibilities for AI-powered enhancements, such as:
-	+ Autocomplete suggestions based on user input and terminal history
-	+ Intelligent command-line parsing and execution
-	+ Advanced search and filtering capabilities
-
-**Focus 2: NLP Libraries and Frameworks**
-
-* Investigate popular NLP libraries and frameworks (e.g., NLTK, spaCy, Stanford CoreNLP)
-* Evaluate their performance, ease of use, and applicability to our terminal-focused project
-* Consider factors such as:
-	+ Language support: Do they handle multiple programming languages or specific languages like Python or Java?
-	+ Tokenization and stemming: How well do they tokenize and stem user input?
-	+ Named entity recognition (NER): Can they identify relevant entities in user input, such as file names or directory paths?
-
-By focusing on these two areas, we'll be able to develop a unique AI-powered terminal solution that leverages the strengths of NLP libraries and frameworks
-to provide users with a more efficient and effective command-line experience.
 
 Next steps:
 
