@@ -1,4 +1,4 @@
-# Thesis 
+# AI-Powered Terminal Project
 
 Aims to simplify the command line interface by providing intelligent suggestions and improving productivity.
 
