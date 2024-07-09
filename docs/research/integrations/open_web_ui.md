@@ -35,3 +35,8 @@ for a seamless user experience.
 
 * Enhanced User Experience: By integrating MACA with Open-Web-UI, we can provide users with a more engaging and interactive experience.
 * Increased Flexibility: The integration allows for greater flexibility in terms of designing and customizing the user interface.
+
+---
+* **[Home](/docs/home.md)**
+* **[Research](/docs/research/research.md)**
+* **[Integrations](/docs/research/integrations.md)**
