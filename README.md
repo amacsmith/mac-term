@@ -1,0 +1,2 @@
+# mac-term
+ai terminal
