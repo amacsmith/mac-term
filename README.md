@@ -104,3 +104,57 @@ Some popular options include:
 2. **spaCy**: A modern NLP library focused on industrial-strength natural language understanding, with a strong focus on performance and ease of use.
 3. **Stanford CoreNLP**: A Java library for NLP that provides a wide range of tools and resources for tasks like part-of-speech tagging, named entity
 recognition, and sentiment analysis.
+
+## **Focus 1: Terminal**
+
+* Develop a deep understanding of how users interact with their terminals
+* Research existing terminal-based command-line interfaces (CLI) to identify best practices and pain points
+* Explore the possibilities for AI-powered enhancements, such as:
+	+ Autocomplete suggestions based on user input and terminal history
+	+ Intelligent command-line parsing and execution
+	+ Advanced search and filtering capabilities
+
+**Focus 2: NLP Libraries and Frameworks**
+
+* Investigate popular NLP libraries and frameworks (e.g., NLTK, spaCy, Stanford CoreNLP)
+* Evaluate their performance, ease of use, and applicability to our terminal-focused project
+* Consider factors such as:
+	+ Language support: Do they handle multiple programming languages or specific languages like Python or Java?
+	+ Tokenization and stemming: How well do they tokenize and stem user input?
+	+ Named entity recognition (NER): Can they identify relevant entities in user input, such as file names or directory paths?
+
+By focusing on these two areas, we'll be able to develop a unique AI-powered terminal solution that leverages the strengths of NLP libraries and frameworks
+to provide users with a more efficient and effective command-line experience.
+
+Next steps:
+
+1. Research existing terminal-based CLI tools to identify best practices and pain points.
+2. Evaluate popular NLP libraries and frameworks for their performance, ease of use, and applicability to our project.
+
+**NLP Library/Framework Evaluation Criteria:**
+
+1. **Language Support:** Can the library/framework handle multiple programming languages or specific languages like Python or Java?
+2. **Tokenization and Stemming:** How well do they tokenize and stem user input? Do they support handling of special characters, punctuation, and
+whitespace?
+3. **Named Entity Recognition (NER):** Can they identify relevant entities in user input, such as file names or directory paths?
+4. **Context Awareness:** Can the library/framework understand context-specific information, like current working directory or command history?
+5. **Scalability and Performance:** How well do they handle large datasets, high-speed input, and concurrent processing?
+6. **Ease of Use:** Are they easy to integrate with our terminal-based project? Do they provide clear documentation and examples?
+
+**Popular NLP Libraries/Frameworks:**
+
+1. **NLTK (Natural Language Toolkit):**
+	* Pros: Comprehensive library for natural language processing tasks
+	* Cons: Steeper learning curve, may require additional preprocessing steps
+2. **spaCy:**
+	* Pros: Fast, streamlined approach to NLP with a focus on performance and ease of use
+	* Cons: Limited support for certain languages or features
+3. **Stanford CoreNLP:**
+	* Pros: Comprehensive library with a wide range of tools and resources for NLP tasks
+	* Cons: Java-based, may require additional setup and configuration
+
+**Next Steps:**
+
+1. Research each library/framework's strengths and weaknesses.
+2. Evaluate their suitability for our AI-powered terminal project based on the evaluation criteria.
+
