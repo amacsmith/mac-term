@@ -1,6 +1,7 @@
 # Research
 
 **[AI-Powered Terminal Project](idea.md)**
+
 **[Exploration](exploration.md)**
 
 ## **Focus on Terminal:**
